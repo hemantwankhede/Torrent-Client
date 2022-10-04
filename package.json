@@ -1,0 +1,19 @@
+{
+  "name": "torrentclient",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bencode": "^2.0.1",
+    "big-integer": "^1.6.48",
+    "big.js": "^6.0.3",
+    "bn.js": "^5.1.3",
+    "cli-progress": "^3.9.0",
+    "dgram": "^1.0.1"
+  }
+}
